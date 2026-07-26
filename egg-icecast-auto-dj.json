@@ -6,13 +6,13 @@
     },
     "exported_at": "2025-09-20T15:37:39+00:00",
     "name": "Icecast-AutoDJ",
-    "author": "info@djfinn.nl",
+    "author": "pcgamer@arixbyte",
     "uuid": "a3f1c2d7-7b4e-4f0c-9438-b27f1a6c8d2e",
     "description": "Sets up an Icecast2 streaming server with Liquidsoap as the source. Ideal for internet radio with AutoDJ, live stream, and fallback support. \n\nNote: A license is required in most countries to publicly stream music.\n\n\u00a9 Sigma Productions 2025",
     "tags": [],
     "features": [],
     "docker_images": {
-        "RadioDj Egg": "ghcr.io/sigma-production/icecast-autodj:latest"
+        "RadioDj Egg": "ghcr.io/justyadav/icecast-autodj:latest"
     },
     "file_denylist": [],
     "startup": "/usr/local/bin/run.sh",
