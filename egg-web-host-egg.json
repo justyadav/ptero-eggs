@@ -64,7 +64,7 @@
         },
         {
             "name": "Git Repo Address",
-            "description": "Git repo to clone\r\n\r\nI.E. https:\/\/github.com\/finnie2006\/repo_name",
+            "description": "Git repo to clone\r\n\r\nI.E. ghcr.io/justyadav/web-host:latest",
             "env_variable": "GIT_ADDRESS",
             "default_value": "",
             "user_viewable": true,
